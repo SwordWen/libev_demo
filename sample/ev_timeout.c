@@ -1,5 +1,4 @@
 // a single header file is required
-#include "config.h"
 #include <ev.h>
 
 #include <stdio.h> // for puts
